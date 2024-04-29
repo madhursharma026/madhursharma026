@@ -12,6 +12,8 @@
 
 ## Projects
 ### Current Projects
+- **Dreamstack Private Limited Website**
+- **Twitter Clone**: Built using Next.js.
 - **Hotstar Clone**: React.js and Flask project allowing users to watch movies and web series.
 - **Youtube Clone**: React.js and Flask project mimicking YouTube's functionality.
 - **Flipkart Clone**: React.js and Flask project resembling the Flipkart e-commerce platform.
@@ -19,8 +21,6 @@
 - **Urbanic Website Clone**: React Native project cloning the Urbanic website.
 
 ### Additional Projects
-- **Dreamstack Private Limited Website**
-- **Twitter Clone**: Built using Next.js.
 - **Whatsapp Clone**
 - **Calm App Clone**: Developed in React Native.
 - **PaisaBazaar App Clone**: Created in React Native.
