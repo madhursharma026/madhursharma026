@@ -9,11 +9,32 @@
 **Hey, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
 
 ## Skills
-🚀 **Frontend**: React.js, Next.js, HTML, CSS, Bootstrap  
-🛠️ **Backend**: Node.js, Express.js, Nest.js, Flask, Django  
-🗃️ **Databases**: MySQL, MongoDB, SQL  
-🌐 **APIs**: GraphQL, RESTful APIs  
-📱 **Mobile Development**: React Native  
+🚀 **Frontend:**  
+![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js  
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js  
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  
+![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
+
+🛠️ **Backend:**  
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
+![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js  
+![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) Nest.js  
+![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask  
+![Django](https://img.icons8.com/color/48/000000/django.png) Django  
+
+🗃️ **Databases:**  
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL  
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
+![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL  
+
+🌐 **APIs:**  
+![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  
+![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png) RESTful APIs  
+
+📱 **Mobile Development:**  
+![React Native](https://img.icons8.com/color/48/000000/react-native.png) React Native  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
 
