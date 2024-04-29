@@ -1,6 +1,6 @@
 <center>
 
-# Madhur Sharma <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
+# Madhur Sharma
 ## A Passionate Developer from India 🚀
 
 </center>
@@ -15,22 +15,11 @@
 🌐 **APIs**: GraphQL, RESTful APIs  
 📱 **Mobile Development**: React Native  
 
-## Projects
-### Current Projects
-- **Dreamstack Private Limited Website**
-- **Twitter Clone**: Built using Next.js.
-- **Hotstar Clone**: React.js and Flask project allowing users to watch movies and web series.
-- **Youtube Clone**: React.js and Flask project mimicking YouTube's functionality.
-- **Flipkart Clone**: React.js and Flask project resembling the Flipkart e-commerce platform.
-- **Gmail Clone**: Flask project replicating the Gmail interface.
-- **Urbanic Website Clone**: React Native project cloning the Urbanic website.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
 
-### Additional Projects
-- **Whatsapp Clone**
-- **Calm App Clone**: Developed in React Native.
-- **PaisaBazaar App Clone**: Created in React Native.
-- **Chat App**: React Native project.
-- **SMS Sending Website**: Built with React.js.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhursharma026&" alt="madhursharma026" /></p>
 
 ## Contact
 📧 Want to collaborate or discuss a project? Feel free to reach out to me at madhursharma220055@gmail.com.
@@ -46,4 +35,6 @@ Let's connect and collaborate on exciting projects together!
 🔍 Effective Analytical Skills  
 💡 Problem-Solving Ability  
 👥 Team Management  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
 
