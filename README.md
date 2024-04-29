@@ -20,10 +20,10 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1 1 50%; padding: 10px;">
-        <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" />
     </div>
     <div style="flex: 1 1 50%; padding: 10px;">
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /></p>
+        <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" />
     </div>
 </div>
 
