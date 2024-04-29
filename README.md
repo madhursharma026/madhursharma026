@@ -13,20 +13,13 @@
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 🛠️ **Backend:**  
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
-![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js  
-![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) Nest.js  
-![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask  
-![Django](https://img.icons8.com/color/48/000000/django.png) Django  
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![Django](https://img.icons8.com/color/48/000000/django.png)
 
 🗃️ **Databases:**  
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
-![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL  
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 🌐 **APIs:**  
-![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  
-![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png) RESTful APIs  
+![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)
 
 📱 **Mobile Development:**  
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) React Native  
