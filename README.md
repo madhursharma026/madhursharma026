@@ -1,4 +1,4 @@
-# Madhur Sharma
+# Madhur Sharma, A passionate developer from India
 
 ## About Me
 **Hey, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
