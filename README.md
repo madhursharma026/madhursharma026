@@ -29,8 +29,8 @@
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
 ### 🌐 APIs:  
-[![Postman](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png){ width=48 height=48 }](https://postman.com/)
-[![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png){ width=48 height=48 }](https://restfulapi.net/)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)(https://postman.com/)
+[![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
 ### 📱 Mobile Development:  
 [![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
