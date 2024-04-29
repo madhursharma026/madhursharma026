@@ -19,9 +19,7 @@
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /> </p>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /></span>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /> </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhursharma026&" alt="madhursharma026" /></p>
 
 ## Contact
