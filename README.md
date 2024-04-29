@@ -30,7 +30,7 @@
 ## Contact
 📧 Want to collaborate or discuss a project? Feel free to reach out to me at madhursharma220055@gmail.com.
 
-### Contributions and Activity
+## Contributions and Activity
 I actively contribute to open-source projects and strive to make meaningful contributions to the developer community. You can check out my recent activity and contributions on my GitHub profile.
 Let's connect and collaborate on exciting projects together!
 
