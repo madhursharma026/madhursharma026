@@ -1,7 +1,7 @@
 # Madhur Sharma
 
 ## About Me
-Hey ![image](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif), I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.
+Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" />, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.
 
 ## Skills
 🚀 **Frontend**: React.js, Next.js, HTML, CSS, Bootstrap  
@@ -28,7 +28,11 @@ Hey ![image](https://user-images.githubusercontent.com/1303154/88677602-1635ba80
 - **SMS Sending Website**: Built with React.js.
 
 ## Contact
-📧 madhursharma220055@gmail.com
+📧 Want to collaborate or discuss a project? Feel free to reach out to me at madhursharma220055@gmail.com.
+
+### Contributions and Activity
+I actively contribute to open-source projects and strive to make meaningful contributions to the developer community. You can check out my recent activity and contributions on my GitHub profile.
+Let's connect and collaborate on exciting projects together!
 
 ## Fun Fact
 ⚡ I enjoy observing the work culture of tech giants like Google, Microsoft, and Apple.
@@ -37,3 +41,4 @@ Hey ![image](https://user-images.githubusercontent.com/1303154/88677602-1635ba80
 🔍 Effective Analytical Skills  
 💡 Problem-Solving Ability  
 👥 Team Management  
+
