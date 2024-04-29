@@ -10,11 +10,7 @@
 
 ## Skills
 🚀 **Frontend:**  
-![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js  
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js  
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  
-![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
+![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 🛠️ **Backend:**  
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
