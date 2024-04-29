@@ -4,37 +4,37 @@
 
 ## Skills
 ### 🚀 *Frontend:*  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![React.js](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
+[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
+[![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/)
 
 ### 🛠 *Backend:*  
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=plastic&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Express.js](https://img.icons8.com/color/48/000000/express.png)](https://expressjs.com/)
+[![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png)](https://nestjs.com/)
+[![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)](https://graphql.org/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Flask](https://img.icons8.com/color/48/000000/flask.png)](https://flask.palletsprojects.com/)
+[![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 
 ### 🗃 *Databases:*  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=plastic&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=sql&logoColor=white)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+[![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
 ### 🌐 *APIs:*  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/restful%20apis-%2300a9e0.svg?style=plastic&logo=restfulapi&logoColor=white)
+[![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
 ### 📱 *Mobile Development:*  
-![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
+[![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
+[![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)](https://developer.android.com/studio)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /> </p>
