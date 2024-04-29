@@ -18,10 +18,10 @@
 ### 📱 **Mobile Development:**  
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhursharma026" alt="madhursharma026" /></a> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /> </p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhursharma026&" alt="madhursharma026" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhursharma026" alt="madhursharma026" /></a> </p>
 
 ## Contact
 📧 Want to collaborate or discuss a project? Feel free to reach out to me at madhursharma220055@gmail.com.
