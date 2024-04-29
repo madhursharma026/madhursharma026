@@ -1,6 +1,6 @@
 # Madhur Sharma, A passionate developer from India
 
-![Summary](https://profile-summary-for-github.com/user/madhursharma026)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
 
 ## About Me
 **Hey, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
