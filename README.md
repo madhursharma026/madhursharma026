@@ -1,4 +1,9 @@
-# Madhur Sharma, A passionate developer from India
+<center>
+
+# Madhur Sharma
+## A Passionate Developer from India 🚀
+
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
 
