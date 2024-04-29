@@ -25,7 +25,6 @@
 
 ### 🗃️ **Databases:**  
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
-[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
 ### 🌐 **APIs:**  
