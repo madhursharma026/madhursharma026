@@ -1,29 +1,26 @@
 <center>
-
 # Madhur Sharma
 ## A Passionate Developer from India 🚀
-
 </center>
 
 ## About Me
 **Hey, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
 
 ## Skills
-🚀 **Frontend:**  
+### 🚀 **Frontend:**  
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
-🛠️ **Backend:**  
+### 🛠️ **Backend:**  
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![Django](https://img.icons8.com/color/48/000000/django.png)
 
-🗃️ **Databases:**  
+### 🗃️ **Databases:**  
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
-🌐 **APIs:**  
+### 🌐 **APIs:**  
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)
 
-📱 **Mobile Development:**  
+### 📱 **Mobile Development:**  
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
 
@@ -47,4 +44,3 @@ Let's connect and collaborate on exciting projects together!
 👥 Team Management  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
-
