@@ -13,18 +13,28 @@
 [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
 [![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/)
 
-
 ### 🛠️ **Backend:**  
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png)![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Express.js](https://img.icons8.com/color/48/000000/express.png)](https://expressjs.com/)
+[![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png)](https://nestjs.com/)
+[![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)](https://graphql.org/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![Flask](https://img.icons8.com/color/48/000000/flask.png)](https://flask.palletsprojects.com/)
+[![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 
 ### 🗃️ **Databases:**  
-![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+[![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
 ### 🌐 **APIs:**  
-![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)
+[![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)](https://graphql.org/)
+[![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
 ### 📱 **Mobile Development:**  
-![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)
+[![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
+[![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)](https://developer.android.com/studio)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /> </p>
