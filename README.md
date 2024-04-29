@@ -1,4 +1,4 @@
-## About Me
+## About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
 **Hey, I'm Madhur Sharma, A Passionate Developer from India 🚀 with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
 
 ## Skills
@@ -37,6 +37,3 @@ Let's connect and collaborate on exciting projects together!
 🔍 Effective Analytical Skills  
 💡 Problem-Solving Ability  
 👥 Team Management  
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=madhursharma026&label=Profile%20views&color=0e75b6&style=flat" alt="madhursharma026" /> </p>
-
