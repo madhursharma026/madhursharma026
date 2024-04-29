@@ -29,7 +29,7 @@
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
 ### 🌐 APIs:  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Postman](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png)
 [![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
 ### 📱 Mobile Development:  
