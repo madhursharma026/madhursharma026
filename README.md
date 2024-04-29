@@ -18,14 +18,9 @@
 ### 📱 **Mobile Development:**  
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1 1 50%; padding: 10px;">
        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" />
-    </div>
-    <div style="flex: 1 1 50%; padding: 10px;">
+    
         <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" />
-    </div>
-</div>
 
 
 
