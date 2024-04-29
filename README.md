@@ -1,7 +1,4 @@
-# Madhur Sharma
-
-## About Me
-Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" />, **I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies**.
+**Hey, I'm Madhur Sharma, a dedicated web developer with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies**.
 
 ## Skills
 🚀 **Frontend**: React.js, Next.js, HTML, CSS, Bootstrap  
