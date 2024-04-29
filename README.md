@@ -4,7 +4,15 @@
 
 ## Skills
 ### 🚀 **Frontend:**  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![React.js](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
+[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
+[![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/)
+
 
 ### 🛠️ **Backend:**  
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png)![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
