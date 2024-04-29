@@ -15,9 +15,14 @@
 🌐 **APIs**: GraphQL, RESTful APIs  
 📱 **Mobile Development**: React Native  
 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" style="width: 50%;" />
-    
-        <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" style="width: 50%;" />
+<div class="row">
+    <div class="col-md-6">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" style="width: 100%;" />
+    </div>
+    <div class="col-md-6">
+        <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" style="width: 100%;" />
+    </div>
+</div>
 
 
 
