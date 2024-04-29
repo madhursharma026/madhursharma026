@@ -3,7 +3,7 @@
 **Hey, I'm Madhur Sharma, A Passionate Developer from India 🚀 with 2.5+ years of experience and currently pursuing a Bachelor of Science degree. My expertise lies in crafting innovative web and mobile solutions using cutting-edge technologies.**
 
 ## Skills
-### 🚀 *Frontend:*  
+### 🚀 Frontend:
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 [![React.js](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
 [![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
@@ -13,7 +13,7 @@
 [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
 [![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/)
 
-### 🛠 *Backend:*  
+### 🛠 Backend:
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Express.js](https://img.icons8.com/color/48/000000/express.png)](https://expressjs.com/)
 [![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png)](https://nestjs.com/)
@@ -23,16 +23,16 @@
 [![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 
-### 🗃 *Databases:*  
+### 🗃 Databases:  
 [![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/)
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
 
-### 🌐 *APIs:*  
+### 🌐 APIs:  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 [![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
-### 📱 *Mobile Development:*  
+### 📱 Mobile Development:  
 [![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
 [![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png)](https://developer.android.com/studio)
 
