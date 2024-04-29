@@ -15,14 +15,15 @@
 🌐 **APIs**: GraphQL, RESTful APIs  
 📱 **Mobile Development**: React Native  
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" />
+<div style="display: flex; width: 100%;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" style="width: 100%;" />
     </div>
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" />
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" style="width: 100%;" />
     </div>
 </div>
+
 
 
 
