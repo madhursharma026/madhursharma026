@@ -30,6 +30,7 @@
 
 ### 🌐 **APIs:**  
 [![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)](https://graphql.org/)
+[![Postman](https://img.icons8.com/color/48/000000/postman-api.png)](https://www.postman.com/)
 [![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)](https://restfulapi.net/)
 
 ### 📱 **Mobile Development:**  
