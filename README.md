@@ -22,7 +22,7 @@
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) ![RESTful APIs](https://img.icons8.com/color/48/000000/api-settings.png)
 
 📱 **Mobile Development:**  
-![React Native](https://img.icons8.com/color/48/000000/react-native.png) React Native  
+![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
