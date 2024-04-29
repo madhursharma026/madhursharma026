@@ -18,9 +18,15 @@
 ### 📱 **Mobile Development:**  
 ![React Native](https://img.icons8.com/color/48/000000/react-native.png) 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /> </p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhursharma026&show_icons=true&locale=en&layout=compact" alt="madhursharma026" /></p>
+    </div>
+    <div style="flex: 1;">
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /></p>
+    </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhursharma026&show_icons=true&locale=en" alt="madhursharma026" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhursharma026&" alt="madhursharma026" /></p>
 
